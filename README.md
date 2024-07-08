@@ -54,6 +54,7 @@ Ingresa el número correspondiente a la moneda de origen.
 Ingresa el número correspondiente a la moneda de destino.
 Ingresa la cantidad a convertir.
 La aplicación mostrará el resultado de la conversión.
+
 Conversión de Criptomonedas:
 
 Selecciona la opción 2.
@@ -65,18 +66,11 @@ La aplicación mostrará el resultado de la conversión.
 Estructura del Proyecto
 
 src
-├── main
-│   ├── java
-│   │   ├── apis
-│   │   │   └── ExchangeAPI.java
-│   │   │   └── GeckoAPI.java
-│   │   ├── coins
-│   │   │   └── Coin.java
-│   │   │   └── ConversionData.java
-│   │   ├── main
-│   │   │   └── Principal.java
-│   ├── resources
-│   │   └── application.properties
+main ->java ->apis -> ExchangeAPI.java ->GeckoAPI.java
+main ->java ->apis ->coins -> Coin.java, ConversionData.java , CryptoConversionData.java
+main ->java -> app -> Principal.java, ConversorDeMonedasAplicattion.java
+resources -> application.properties
+
 Créditos
 Este proyecto fue desarrollado por Angel Eduardo Olvera Perez con fines de aprendizaje.
 GRACIAS
