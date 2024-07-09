@@ -66,11 +66,18 @@ La aplicación mostrará el resultado de la conversión.
 Estructura del Proyecto
 
 src
+
 main ->java ->apis -> ExchangeAPI.java ->GeckoAPI.java
+
 main ->java ->apis ->coins -> Coin.java, ConversionData.java , CryptoConversionData.java
+
 main ->java -> app -> Principal.java, ConversorDeMonedasAplicattion.java
+
 resources -> application.properties
 
 Créditos
+
 Este proyecto fue desarrollado por Angel Eduardo Olvera Perez con fines de aprendizaje.
+
+
 GRACIAS
