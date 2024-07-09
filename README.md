@@ -21,18 +21,29 @@ Instalación y Configuración
  Configurar el archivo `pom.xml`:
     Asegúrate de que el archivo `pom.xml` incluya las siguientes dependencias:
     <dependencies>
-   //Spring Boot//
-        <dependency>
+    
+      //Spring Boot//     
+        
+         
+         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
+
+        
         //Jackson//
+        
+        
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
             <version>2.13.3</version>
         </dependency>
+        
+        
         //Gson//
+        
+        
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
