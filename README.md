@@ -67,7 +67,7 @@ Ingresa la cantidad a convertir.
 La aplicación mostrará el resultado de la conversión.
 
 Conversión de Criptomonedas:
-
+(Para esta funcion utiliza tu API key la puedes obtener del siguiente link https://www.coingecko.com/api y agregala a la clase GeckoAPI)
 Selecciona la opción 2.
 Ingresa el número correspondiente a la criptomoneda de origen.
 Ingresa el número correspondiente a la moneda nacional de destino.
