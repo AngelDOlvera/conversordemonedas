@@ -1,4 +1,4 @@
-# conversordemonedas ALURA Oracle Porgrama One G6
+# conversordemonedas ALURA Oracle Programa One G6
 Un conversor de monedas creado en JAVA como parte de formacion personal
 # Conversor de Divisas y Criptomonedas
 
